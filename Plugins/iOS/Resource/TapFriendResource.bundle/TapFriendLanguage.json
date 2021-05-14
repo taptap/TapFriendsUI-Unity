@@ -13,7 +13,8 @@
         "add_friend_toast_unfollowed":"已取消关注%s",
         "add_friend_toast_blocked":"已将%s加入黑名单",
         "add_friend_toast_unblocked":"已将%s移出黑名单",
-        "add_friend_toast_user_not_found":"该用户不存在"
+        "add_friend_toast_user_not_found":"该用户不存在",
+        "add_friend_toast_action_failed":"操作失败"
     },
     "en":{
         "add_friend_content_head_not_follow":"When you follow or block this user, ",
@@ -29,6 +30,7 @@
         "add_friend_toast_unfollowed":"You are no longer following %s",
         "add_friend_toast_blocked":"You have blocked %s",
         "add_friend_toast_unblocked":"You have unblocked %s",
-        "add_friend_toast_user_not_found":"User Not Found"
+        "add_friend_toast_user_not_found":"User Not Found",
+        "add_friend_toast_action_failed":"Failed"
     }
 }
