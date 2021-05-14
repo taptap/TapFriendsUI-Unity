@@ -1,19 +1,13 @@
 # ChangeLog
 
-## 2.1.1
-
-### Dependencies
-
-* TapTap.Bootstrap v2.1.1
-* TapTap.Common v2.1.1
-
-## 2.1.0
+### 2.1.2
 
 ### Feature
 
-* Friends
+- 新增 Friends UI
 
 ### Dependencies
 
-* TapTap.Bootstrap v2.1.0
-* TapTap.Common v2.1.0
+- TapTap.Common v2.1.2
+- TapTap.Bootstrap v2.1.2
+- TapTap.Friends v2.1.2
