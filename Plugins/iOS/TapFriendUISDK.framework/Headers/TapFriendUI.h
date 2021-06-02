@@ -10,8 +10,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 #define TapFriendUISDK @"TapFriendUI"
-#define TapFriendUISDK_VERSION_NUMBER @"20102001"
-#define TapFriendUISDK_VERSION        @"2.1.2"
+#define TapFriendUISDK_VERSION_NUMBER @"20103001"
+#define TapFriendUISDK_VERSION        @"2.1.3"
 
 @interface TapFriendUI : NSObject
 
