@@ -1,6 +1,12 @@
 # ChangeLog
 
-### 2.1.5 
+## 2.1.6
+
+- TapTap.Common v2.1.6
+- TapTap.Friends v2.1.6
+- TapTap.Bootstrap v2.1.5
+
+## 2.1.5
 
 ### Dependencies
 
@@ -8,7 +14,7 @@
 - TapTap.Bootstrap v2.1.5
 - TapTap.Friends v2.1.5
 
-### 2.1.4
+## 2.1.4
 
 ### Dependencies
 
@@ -16,7 +22,7 @@
 - TapTap.Bootstrap v2.1.4
 - TapTap.Friends v2.1.4
 
-### 2.1.3
+## 2.1.3
 
 ### Dependencies
 
@@ -24,7 +30,7 @@
 - TapTap.Bootstrap v2.1.3
 - TapTap.Friends v2.1.3
 
-### 2.1.2
+## 2.1.2
 
 ### Feature
 
