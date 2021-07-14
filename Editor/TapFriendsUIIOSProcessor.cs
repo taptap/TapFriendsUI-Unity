@@ -19,14 +19,6 @@ namespace TapTap.FriendsUI.Editor
             var proj = TapCommonCompile.ParseProjPath(projPath);
             var target = TapCommonCompile.GetUnityTarget(proj);
             
-            var unityAppControllerPath = path + "/Classes/UnityAppController.mm";
-            var unityAppController = new TapFileHelper(unityAppControllerPath);
-            unityAppController.WriteBelow(@"#import <TapLoginSDK/TapLoginHelper.h>",@"#import <TapFriendSDK/TapFriendSDK.h>");
-            unityAppController.WriteBelow(
-                @"id sourceApplication = options[UIApplicationOpenURLOptionsSourceApplicationKey], annotation = options[UIApplicationOpenURLOptionsAnnotationKey];",
-                @"if(url){[TapFriends handleOpenURL:url];}");
-            Debug.Log("TapFriendsUI Change UnityAppController File!");
-
             if (TapCommonCompile.CheckTarget(target))
             {
                 Debug.LogError("Unity-iPhone is NUll");
