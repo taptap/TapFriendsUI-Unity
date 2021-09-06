@@ -1,5 +1,5 @@
 {
-    "zh_hans":{
+    "zh_CN":{
         "add_friend_content_head_not_follow":"关注或拉黑该用户，TapTap内以及其他使用Tap好友关系的游戏会 同步生效。",
         "add_friend_content_head_followed":"取关或拉黑该用户，TapTap内以及其他使用Tap好友关系的游戏会 同步生效。",
         "add_friend_content_head_remove_black":"将该用户移出黑名单后，TapTap内以及其他使用Tap好友关系的游戏会 同步生效。",
@@ -15,7 +15,7 @@
         "add_friend_toast_user_not_found":"该用户不存在",
         "add_friend_toast_action_failed":"操作失败"
     },
-    "en":{
+    "en_US":{
         "add_friend_content_head_not_follow":"When you follow or block this user, this will be a synchronised action applied to TapTap and other games that use Tap Friends List.",
         "add_friend_content_head_followed":"When you unfollow or block this user, this will be a synchronised action applied to TapTap and other games that use Tap Friends List.",
         "add_friend_content_head_remove_black":"When you remove this user from the blacklist, this will be a synchronised action applied to TapTap and other games that use Tap Friends List.",
@@ -31,7 +31,7 @@
         "add_friend_toast_user_not_found":"User Not Found",
         "add_friend_toast_action_failed":"Failed"
     },
-    "zh_hant":{
+    "zh_TW":{
         "add_friend_content_head_not_follow":"追蹤或封鎖該用戶，TapTap內以及其他使用Tap好友關係的遊戲會 同步生效。",
         "add_friend_content_head_followed":"取關或拉黑該用戶，TapTap內以及其他使用Tap好友關係的遊戲會 同步生效。",
         "add_friend_content_head_remove_black":"將該用戶移除黑名單後，TapTap內以及其他使用Tap好友關係的遊戲會 同步生效。",
@@ -47,7 +47,7 @@
         "add_friend_toast_user_not_found":"找不到該用戶",
         "add_friend_toast_action_failed":"操作失敗"
     },
-    "ja":{
+    "ja_JP":{
         "add_friend_content_head_not_follow":"このユーザーをフォローまたはブロックすると、TapTapおよびTap 友達リストを使用する他のゲームにも適用されることになります.",
         "add_friend_content_head_followed":"このユーザーをフォロー解除またはブロックすると、TapTapおよびTap 友達リストを使用する他のゲームにも適用されることになります.",
         "add_friend_content_head_remove_black":"このユーザーをフォロー解除またはブロックすると、TapTapおよびTap 友達リストを使用する他のゲームにも適用されることになります.",
@@ -63,7 +63,7 @@
         "add_friend_toast_user_not_found":"ユーザーが見つかりません",
         "add_friend_toast_action_failed":"操作に失敗しました"
     },
-    "ko":{
+    "ko_KR":{
         "add_friend_content_head_not_follow":"팔로우와 블랙 리스트 기능은 TapTap 내 Tap 친구 기능에 적용 됩니다",
         "add_friend_content_head_followed":"연관 및 블랙 리스트 유저 기능은 TapTap 내 Tap 친구 기능과 함께 적용 됩니다",
         "add_friend_content_head_remove_black":"블랙 리스트 제거 후 TapTap 내 Tap 친구 기능과 함께 적용 됩니다",
@@ -79,7 +79,7 @@
         "add_friend_toast_user_not_found":"유저 없음",
         "add_friend_toast_action_failed":"실패"
     },
-    "th":{
+    "th_TH":{
         "add_friend_content_head_not_follow":"เมื่อคุณติดตามหรือบล็อกผู้ใช้รายนี้ ระบบจะซิงค์กับบัญชีเกมและรายชื่อเพื่อนบน TapTap ของคุณ",
         "add_friend_content_head_followed":"เมื่อคุณยกเลิกการติดตามหรือบล็อกผู้ใช้รายนี้ ระบบจะซิงค์กับบัญชีเกมและรายชื่อเพื่อนบน TapTap ของคุณ",
         "add_friend_content_head_remove_black":"เมื่อคุณลบผู้ใช้รายนี้ออกจากแบล็คลิสต์ ระบบจะซิงค์กับบัญชีเกมและรายชื่อเพื่อนบน TapTap ของคุณ",
@@ -95,7 +95,7 @@
         "add_friend_toast_user_not_found":"ไม่พบผู้ใช้งาน",
         "add_friend_toast_action_failed":"ล้มเหลว"
     },
-    "id":{
+    "id_ID":{
         "add_friend_content_head_not_follow":"Ketika kamu memfollow atau memblock user ini dari blacklist, akan ada aksi sinkron yang diterapkan ke TapTap dan game lainnya yang memakai Friend List Tap",
         "add_friend_content_head_followed":"Ketika kamu berhenti follow atau memblock user ini dari blacklist, akan ada aksi sinkron yang diterapkan ke TapTap dan game lainnya yang memakai Friend List Tap",
         "add_friend_content_head_remove_black":"Ketika kamu menghapus user ini dari blacklist, akan ada aksi sinkron yang diterapkan ke TapTap dan game lainnya yang memakai Friend List Tap",
