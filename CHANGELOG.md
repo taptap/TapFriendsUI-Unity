@@ -1,5 +1,13 @@
 # ChangeLog
 
+## 2.1.9
+
+### Dependencies
+
+- TapTap.Common v2.1.8
+- TapTap.Friends v2.1.9
+- TapTap.Bootstrap v2.1.8
+
 ## 2.1.8
 
 ### Dependencies
